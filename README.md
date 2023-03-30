@@ -1,0 +1,2 @@
+# Patakin
+for competitions
